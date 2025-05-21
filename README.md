@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 # output
-![image](https://github.com/user-attachments/assets/716fea7a-7a1c-4468-8e61-638bc3e0a712)
+![image](https://github.com/user-attachments/assets/a73659f8-f66a-4af2-be2d-ba82d329c891)
+
 
 
 
